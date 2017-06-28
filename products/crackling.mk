@@ -39,7 +39,7 @@ TARGET_VENDOR_DEVICE_NAME := crackling
 
 # HexagonRom Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Ali Dalverir (Hybriss)"
+    DEVICE_MAINTAINERS="Mehmet Ali Dalverir (Hybriss)"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=Wileyfox/Swift/crackling:7.1.1/N6F26Y/5506d7d322:user/release-keys \
